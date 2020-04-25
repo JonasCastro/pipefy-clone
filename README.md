@@ -1,7 +1,7 @@
 <h1 align="center">
     PipefyClone
 </h1>
-<p align="center">Aplicação que simula a interface do Pipefy.</p>
+<p align="center">Application that simulates  Pipefy interface.</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JonasCastro/pipefy-clone?color=%2304D361">
@@ -13,24 +13,23 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-Projeto desenvolvido durante o vídeo ["Recriando Pipefy do zero (com drag n' drop)"](https://www.youtube.com/watch?v=awRtgpRsdTQ).
 
-## Pré-requisitos
+## Prerequisites
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React DnD](https://react-dnd.github.io/react-dnd/about)
 
-## Passos para utilizar 
-1. Faça um clone  `git clone`  desse repositório;
-2. Entre na pasta `cd pipefy-clone`;
-3. Execute `yarn` para instalar as dependências;
-4. Execute `yarn start` para iniciar a aplicação;
+## Steps to use
+1. Make a `git clone` from this repository;
+2. Enter the `cd pipefy-clone` folder;
+3. Run `yarn` to install  dependencies;
+4. Run `yarn start` to start  application;
 
-## :memo: Licença
+## :memo: LICENSE
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is under license from MIT. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-[Mantenha contato!](https://www.linkedin.com/in/jonas-castro-b4044111a/)
+[Stay in touch!](https://www.linkedin.com/in/jonas-castro-b4044111a/)
